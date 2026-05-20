@@ -52,9 +52,6 @@ IoT Developer | Embedded Systems | Data Analyst
 
 ### 💻 Programming & Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,arduino,c,mysql" />
-</p>
 
 Python • Embedded C • Arduino IDE • SQL
 
@@ -85,10 +82,6 @@ Python • Embedded C • Arduino IDE • SQL
 ---
 
 ### 📊 Data Analytics
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
 
 📊 SQL  
 
