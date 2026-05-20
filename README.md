@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
 
 <h3 align="center">
-IoT Developer 
+IoT Developer | Data Analyst | Embedded Systems Enthusiast
 </h3>
 
 ---
@@ -20,15 +20,31 @@ IoT Developer
 
 • 💾 Working with SQL, Excel & Power BI  
 
-• 📩 Reach me at: yourmail@gmail.com
-
 ---
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/harsh7040/)
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/harshu1910)
+
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:harshviveksharma8911@gmail.com)
+
+📧 harshviveksharma8911@gmail.com
+
+---
+
+# 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
+
+<img src="https://img.shields.io/badge/ThingSpeak-FF6600?style=for-the-badge&logo=mathworks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MQTT_Explorer-00AEEF?style=for-the-badge&logo=mqtt&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Arduino_Cloud-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 
 ---
 
@@ -37,20 +53,25 @@ IoT Developer
 ### 💻 Programming & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,github,arduino,c" />
+<img src="https://skillicons.dev/icons?i=python,arduino,c" />
 </p>
 
-Python • Embedded C • GitHub • Arduino IDE
+Python • Embedded C • Arduino IDE
 
 ---
 
-### 📡 IoT & Embedded
+### 📡 IoT / Embedded
 
 🔌 ESP32  
-📶 IoT Systems  
+
 📟 Sensors  
+
+📶 IoT Systems  
+
 ⚡ OTA Updates  
+
 🌐 MQTT  
+
 ☁️ Firebase
 
 ---
@@ -62,17 +83,11 @@ Python • Embedded C • GitHub • Arduino IDE
 </p>
 
 📊 SQL  
+
 📈 Power BI  
+
 📑 Excel  
+
 🧹 Data Cleaning  
+
 📉 Data Visualization
-
----
-
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git" />
-</p>
-
-VS Code • Git
