@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
+<h1 align="center">Hey there! I'm Harsh Sharma 👋</h1>
 
 <h3 align="center">
-IoT Developer | Data Analyst | Embedded Systems Enthusiast
+IoT Developer | Embedded Systems | Data Analyst
 </h3>
 
 ---
@@ -20,7 +20,6 @@ IoT Developer | Data Analyst | Embedded Systems Enthusiast
 
 • 💾 Working with SQL, Excel & Power BI  
 
-• 📩 Reach me at: harshviveksharma8911@gmail.com
 
 ---
 
@@ -28,7 +27,6 @@ IoT Developer | Data Analyst | Embedded Systems Enthusiast
 
 <p align="left">
 <a href="https://www.linkedin.com/in/harsh7040/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://github.com/harshu1910" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="mailto:harshviveksharma8911@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
@@ -72,21 +70,9 @@ Python • Embedded C • Arduino IDE • SQL
 
 📶 IoT Systems  
 
-🌐 MQTT Protocol  
-
-☁️ Cloud Integration  
-
-📡 Wi-Fi / Serial Communication  
+🌐 MQTT Protocol    
 
 ⚡ OTA Updates  
-
-📊 Real-Time Monitoring  
-
-🔄 Data Acquisition  
-
-📥 Sensor Data Logging  
-
-☁️ Firebase  
 
 📈 ThingSpeak  
 
@@ -112,12 +98,5 @@ Python • Embedded C • Arduino IDE • SQL
 
 🔄 ETL (Extract, Transform, Load)  
 
-🧹 Data Cleaning  
-
-📉 Data Visualization  
-
-📋 Dashboard Creation  
-
 📚 Data Analysis  
 
-📌 Data Wrangling
