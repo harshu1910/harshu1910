@@ -8,7 +8,7 @@ IoT Developer | Data Analyst | Embedded Systems Enthusiast
 
 # 🚀 About Me
 
-• 🎓 Final Year CSE Student  
+• 🎓 Final Year CSE-IOT Student  
 
 • 📡 IoT & Embedded Systems Enthusiast  
 
@@ -24,27 +24,23 @@ IoT Developer | Data Analyst | Embedded Systems Enthusiast
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/harsh7040/)
-
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/harshu1910)
-
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:harshviveksharma8911@gmail.com)
-
-📧 harshviveksharma8911@gmail.com
-
----
+<p align="left">
+<a href="https://www.linkedin.com/in/harsh7040/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/harshu1910" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="mailto:harshviveksharma8911@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
 
 # 🛠 Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,github,arduino" />
+
+<img src="https://img.shields.io/badge/ThingSpeak-orange?style=for-the-badge&logo=mathworks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MQTT%20Explorer-00AEEF?style=for-the-badge&logo=mqtt&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Arduino%20Cloud-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
-
-<img src="https://img.shields.io/badge/ThingSpeak-FF6600?style=for-the-badge&logo=mathworks&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MQTT_Explorer-00AEEF?style=for-the-badge&logo=mqtt&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Arduino_Cloud-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 
 ---
 
@@ -72,7 +68,7 @@ Python • Embedded C • Arduino IDE
 
 🌐 MQTT  
 
-☁️ Firebase
+
 
 ---
 
